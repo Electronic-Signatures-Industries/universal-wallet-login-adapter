@@ -11,6 +11,8 @@ This adapter interface allows adding operating systems access to login infrastru
 
 - https://github.com/gebogebogebo/ctap-hid-fido2
 - https://github.com/Yubico/libfido2
+- https://github.com/davedoesdev/webauthn4js
+- https://github.com/github/webauthn-json/
 
 ## MIT Licensed
 Copyright Industrias de Firmas Electronicas SA, 2021
